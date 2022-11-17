@@ -1,0 +1,113 @@
+@import url('https://fonts.cdnfonts.com/css/axiforma');
+
+body {
+	font-family: sans-serif;	
+	background-image: url(bg.jpg);
+	background-repeat: no-repeat;
+	overflow: hidden;
+	background-size: cover;
+}
+
+.container {
+	width: 500px;
+	height: 500px;
+	margin: 7% auto;
+	border-radius: 25px;
+	background-color: rgba(253, 250, 250, 0.5);
+	box-shadow: 0 0 17px #333;
+}
+
+.header {
+	text-align: center;
+	padding-top: 15px;
+}
+
+.header h1 {
+	color: rgb(255, 255, 255);
+	font-size: 60px;
+	margin-bottom: 25px;
+	text-shadow: 0 0 3px rgb(0, 0, 0);
+}
+
+.main {
+	text-align: center;
+}
+
+
+.main button {
+	padding-left: 0;
+	letter-spacing: 1px;
+	font-weight: bold;
+	margin-bottom: 0px;
+}
+
+.ukraine {
+	color: #ffd700;
+}
+
+.save {
+	color: #0057b7;
+}
+
+.pip-extension {
+	color: aliceblue;
+	font-size: 12px;
+	margin-bottom: 30px;
+	margin-top: 40px;
+	text-align: center;
+}
+
+.pip {
+	color: #1149FF;
+	font-size: 40px;
+	font-family: 'Axiforma', sans-serif;
+                                                
+}
+
+.donate {
+	font-size: 30px;
+}
+
+
+.button1p {
+	color: white;
+	font-size: small;
+	margin-bottom: 30px;
+}
+
+.button2p {
+	color: white;
+	font-size: small;
+	margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
