@@ -24,7 +24,7 @@ body {
 
 .header h1 {
 	color: rgb(255, 255, 255);
-	font-size: 60px;
+	font-size: 50px;
 	margin-bottom: 25px;
 	text-shadow: 0 0 3px rgb(0, 0, 0);
 }
@@ -42,11 +42,11 @@ body {
 }
 
 .ukraine {
-	color: #ffd700;
+	color: #b8123c;
 }
 
 .save {
-	color: #0057b7;
+	color: #137751;
 }
 
 .pip-extension {
